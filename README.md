@@ -19,6 +19,7 @@ Alumnos:
 * [Gutiérrez Ramírez, Jesús](https://github.com/Jesus-GR)
 * [López Lozano, Santos](https://github.com/SantosLopezLozano)
 * [Millán Rebollo, Noel](https://github.com/NoelMillan)
+* [Millón Cortés, Manuel Alejandro](https://github.com/ManuelMillon)
 * [Morales Aragón, Marcos](https://github.com/MarcosMoralesAragon)
 * [Moreno Rodríguez, Javier](https://github.com/Javiemr)
 * [Reyes Podadera, Pablo Jesús](https://github.com/PabloJesusReyes)
